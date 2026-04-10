@@ -49,35 +49,40 @@ Elle est née de la refonte complète d'un template web React (base44), entière
 
 ## 📸 Aperçu de l'application
 
-> 💡 _Remplacez les emplacements ci-dessous par les captures d'écran de votre application._
-
 ### Authentification & Accueil
 
-|                               Login                                |                                 Register                                 |                               Home                               |
-| :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="./screenshots/login.png" width="200" alt="Écran Login"/> | <img src="./screenshots/register.png" width="200" alt="Écran Register"/> | <img src="./screenshots/home.png" width="200" alt="Écran Home"/> |
-|                   _Connexion sécurisée par JWT_                    |                           _Création de compte_                           |                  _Tableau de bord utilisateur_                   |
+|                                                              Login                                                               |                                                                Register                                                                |                                                              Home                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./fashionfolio-frontend/assets/Screen/login.PNG" width="200" alt="Écran Login"/> | <img src="./fashionfolio-frontend/assets/Screen/register.PNG" width="200" alt="Écran Register"/> | <img src="./fashionfolio-frontend/assets/Screen/home.png" width="200" alt="Écran Home"/> |
+|                                                  _Connexion sécurisée par JWT_                                                   |                                                        _Création de compte_                                                            |                                                 _Tableau de bord utilisateur_                                                   |
 
 ### Mon Dressing
 
-|                               Grille du Dressing                               |                           Filtres par catégorie                           |                             Ajout d'un vêtement                              |
-| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="./screenshots/dressing_grid.png" width="200" alt="Grille Dressing"/> | <img src="./screenshots/dressing_filters.png" width="200" alt="Filtres"/> | <img src="./screenshots/add_clothing.png" width="200" alt="Ajout vêtement"/> |
-|                           _Vue en grille des pièces_                           |                         _Filtrage par catégorie_                          |                        _Formulaire avec upload photo_                        |
+|                                                                   Grille du Dressing                                                                    |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./fashionfolio-frontend/assets/Screen/dressing.PNG" width="200" alt="Grille Dressing"/> |
+|                                                              _Vue en grille des pièces_                                                                 |
 
 ### Marketplace
 
-|                          Parcourir les articles                          |                               Détail d'un article                               |                             Mettre en vente                              |
-| :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="./screenshots/marketplace.png" width="200" alt="Marketplace"/> | <img src="./screenshots/listing_details.png" width="200" alt="Détail annonce"/> | <img src="./screenshots/sell_item.png" width="200" alt="Mise en vente"/> |
-|                      _Grille + moteur de recherche_                      |                          _Vue détaillée de l'annonce_                           |                        _Vente depuis le Dressing_                        |
+|                                                                Parcourir les articles                                                                 |                                                               Mettre en vente                                                                |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./fashionfolio-frontend/assets/Screen/MarketPlace.PNG" width="200" alt="Marketplace"/> | <img src="./fashionfolio-frontend/assets/Screen/vendre.PNG" width="200" alt="Mise en vente"/> |
+|                                                          _Grille + moteur de recherche_                                                               |                                                         _Vente depuis le Dressing_                                                           |
 
 ### Social & Profil
 
-|                               Feed Social                                |                                    Messagerie                                    |                             Profil                              |
-| :----------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="./screenshots/social_feed.png" width="200" alt="Feed Social"/> | <img src="./screenshots/dm_conversation.png" width="200" alt="Messages privés"/> | <img src="./screenshots/profile.png" width="200" alt="Profil"/> |
-|                           _Fil communautaire_                            |                             _Conversations privées_                              |                _Gestion du profil & abonnement_                 |
+|                                                               Feed Social                                                                |                                                                   Messagerie                                                                    |                                                             Profil                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./fashionfolio-frontend/assets/Screen/social.PNG" width="200" alt="Feed Social"/> | <img src="./fashionfolio-frontend/assets/Screen/message.png" width="200" alt="Messages privés"/> | <img src="./fashionfolio-frontend/assets/Screen/profil.png" width="200" alt="Profil"/> |
+|                                                          _Fil communautaire_                                                             |                                                           _Conversations privées_                                                               |                                               _Gestion du profil & abonnement_                                                  |
+
+### Assistant IA
+
+|                                                               Chat IA                                                                |
+| :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="./fashionfolio-frontend/assets/Screen/chatIA.png" width="200" alt="Chat IA"/> |
+|                                                   _Assistant mode intégré_                                                            |
 
 ---
 
