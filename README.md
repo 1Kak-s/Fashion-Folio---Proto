@@ -55,7 +55,7 @@ Elle est née de la refonte complète d'un template web React (base44), entière
 
 |                               Login                                |                                 Register                                 |                               Home                               |
 | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="./fashionfolio-frontend/assets/Screen/login.png" width="200" alt="Écran Login"/> | <img src="./fashionfolio-frontend/assets/Screen/register.png" width="200" alt="Écran Register"/> | <img src="./screenshots/home.png" width="200" alt="Écran Home"/> |
+| <img src="./fashionfolio-frontend/assets/Screen/login.PNG" width="200" alt="Écran Login"/> | <img src="./fashionfolio-frontend/assets/Screen/register.PNG" width="200" alt="Écran Register"/> | <img src="./fashionfolio-frontend/assets/Screen/home.png" width="200" alt="Écran Home"/> |
 |                   _Connexion sécurisée par JWT_                    |                           _Création de compte_                           |                  _Tableau de bord utilisateur_                   |
 
 ### Mon Dressing
