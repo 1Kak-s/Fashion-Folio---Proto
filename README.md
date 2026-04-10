@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./fashionfolio-frontend/assets/Full_logo.png" width="300" alt="Fashionfolio Logo"/>
+
 # 👗 Fashionfolio
 
 ### _Votre dressing connecté. Votre marketplace. Votre communauté._
