@@ -16,7 +16,7 @@ import { Mail, Lock, Eye, EyeOff, AlertCircle } from "lucide-react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 
-const API_URL = process.env.EXPO_PUBLIC_API_URL || "http://10.1.219.54:8000";
+const API_URL = process.env.EXPO_PUBLIC_API_URL;
 
 export default function LoginScreen({ navigation }) {
   const [email, setEmail] = useState("");
