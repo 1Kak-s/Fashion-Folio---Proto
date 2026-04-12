@@ -62,7 +62,7 @@ Elle est née de la refonte complète d'un template web React (base44), entière
 
 |                                                             Grille du Dressing                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="./fashionfolio-frontend/assets/Screen/dressing.PNG" width="200" alt="Grille Dressing"/> |
+| <img src="./fashionfolio-frontend/assets/Screen/dressing.png" width="200" alt="Grille Dressing"/> |
 |                                                        _Vue en grille des pièces_                                                           |
 
 ### Marketplace
